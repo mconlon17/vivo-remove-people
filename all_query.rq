@@ -1,0 +1,4 @@
+    SELECT ?uri
+    WHERE {
+      ?uri a foaf:Person .
+    }

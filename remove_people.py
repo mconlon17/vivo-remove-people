@@ -12,91 +12,20 @@ __version__ = "0.1"
 
 from datetime import datetime
 import random # for testing purposes, select subsets of records to process
-import tempita
 import sys
-import vivotools as vt
+from vivotools import read_csv
+from vivotools import remove_uri
+from vivotools import rdf_header
+from vivotools import rdf_footer
 import codecs
+import operator
 
-def all_people():
+def uri_set(file_name):
     """
-    Return a list of all people in VIVO
+    Return a set of uris from  a csv file
     """
-    query = tempita.Template("""
-    SELECT ?uri
-    WHERE {
-        ?uri a foaf:Person .
-    }
-    """)
-    query = query.substitute()
-    result = vt.vivo_sparql_query(query)
-    uris = []
-    for b in result["results"]["bindings"]:
-        uri = b['uri']['value']
-        uris.append(uri)
-    return uris
-
-def keep_people():
-    """
-    return a list of all people who meet one or more criteria for
-    remaining in VIVO
-    """
-    query = tempita.Template("""
-    SELECT ?uri
-    WHERE {
-      {
-      ?uri vivo:authorInAuthorship ?a .
-      ?uri a foaf:Person .
-      }
-      UNION {
-      ?uri vivo:hasTeacherRole ?t .
-      ?uri a foaf:Person .
-      }
-      UNION {
-      ?uri vivo:hasPrincipalInvestigatorRole ?t .
-      ?uri a foaf:Person .
-      }
-      UNION {
-      ?uri a ufVivo:VIVOOptIn .
-      ?uri a foaf:Person .
-      }
-      UNION {
-      ?uri a vivo:FacultyMember .
-      ?uri a foaf:Person .
-      }
-      UNION {
-      ?uri a vivo:NonAcademic .
-      ?uri a foaf:Person .
-      }
-      UNION {
-      ?uri a vivo:Postdoc .
-      ?uri a foaf:Person .
-      }
-      UNION {
-      ?uri a ufVivo:CourtesyFaculty .
-      ?uri a foaf:Person .
-      }
-      UNION {
-      ?uri a ufVivo:TemporaryFaculty .
-      ?uri a foaf:Person .
-      }
-      UNION {
-      ?uri a ufVivo:Housestaff .
-      ?uri a foaf:Person .
-      }
-      UNION {
-      ?uri a ufVivo:ClinicalFaculty .
-      ?uri a foaf:Person .
-      }
-    }
-    GROUP BY ?uri
-    """)
-    query = query.substitute()
-    result = vt.vivo_sparql_query(query)
-    uris = []
-    for b in result["results"]["bindings"]:
-        uri = b['uri']['value']
-        uris.append(uri)
-    return uris
+    data = read_csv(file_name)
+    return set(row['uri'] for row in data.values())
 
 # Start here
 
@@ -105,33 +34,37 @@ srdf = ""
 #log_file = open('remove_people_log.txt',"w")
 log_file = sys.stdout
 print >>log_file, datetime.now(), "Start"
-list_a = all_people()
-print >>log_file, datetime.now(), len(list_a), "persons in VIVO"
-list_b = keep_people()
-print >>log_file, datetime.now(), len(list_b), "people to keep in VIVO"
+set_all = uri_set('all_list.txt')
+print >>log_file, datetime.now(), len(set_all), "persons in VIVO"
+set_keep = uri_set('keep_list.txt')
+print >>log_file, datetime.now(), len(set_keep), "people to keep in VIVO"
 
 #   Generate the list to remove
 
-list_c = []
-for uri in list_a:
-    if uri not in list_b:
-        list_c.append(uri)
-print >>log_file, datetime.now(), len(list_c), "people to remove from VIVO"
+set_remove = set_all - set_keep
+print >>log_file, datetime.now(), len(set_remove), "people to remove from VIVO"
 
 #   Process the people to remove
 
-for uri in list_c:
+report = {}
+for uri in set_remove:
     if random.random() > sample:
         continue
-    sub = vt.remove_uri(uri)
+    sub = remove_uri(uri)
+    report[uri] = len(sub)
     srdf = srdf + sub
+
+#   Print report
+
+for uri,size in sorted(report.iteritems(), key=operator.itemgetter(1), reverse=True):
+    print >>log_file, datetime.now(), uri, size
 
 sub_file = codecs.open("remove_people_sub.rdf", mode="w", encoding="ascii",
                       errors = "xmlcharrefreplace")
-sub_file.write(vt.rdf_header())
+sub_file.write(rdf_header())
 sub_file.write(srdf)
-sub_file.write(vt.rdf_footer())
-subfile.close()
+sub_file.write(rdf_footer())
+sub_file.close()
 
 print >>log_file, datetime.now(), "Finish"
 

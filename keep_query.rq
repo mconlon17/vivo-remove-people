@@ -1,0 +1,58 @@
+    # Identify all people who should be in VIVO
+	
+	SELECT ?uri
+    WHERE {
+      {
+      ?uri vivo:authorInAuthorship ?a .
+      ?uri a foaf:Person .
+      }
+      UNION {
+      ?uri vivo:hasTeacherRole ?t .
+      ?uri a foaf:Person .
+      }
+      UNION {
+      ?uri vivo:hasPrincipalInvestigatorRole ?t .
+      ?uri a foaf:Person .
+      }
+      UNION {
+      ?uri a ufVivo:VIVOOptIn .
+      ?uri a foaf:Person .
+      }
+      UNION {
+      ?uri a vivo:FacultyMember .
+      ?uri a foaf:Person .
+      }
+      UNION {
+      ?uri a vivo:NonAcademic .
+      ?uri a foaf:Person .
+      }
+	  UNION {
+      ?uri a vivo:NonFacultyAcademic .
+      ?uri a foaf:Person .
+      }
+      UNION {
+      ?uri a vivo:Postdoc .
+      ?uri a foaf:Person .
+      }
+      UNION {
+      ?uri a ufVivo:CourtesyFaculty .
+      ?uri a foaf:Person .
+      }
+	  UNION {
+      ?uri a ufVivo:MiscFaculty .
+      ?uri a foaf:Person .
+      }
+      UNION {
+      ?uri a ufVivo:TemporaryFaculty .
+      ?uri a foaf:Person .
+      }
+      UNION {
+      ?uri a ufVivo:Housestaff .
+      ?uri a foaf:Person .
+      }
+      UNION {
+      ?uri a ufVivo:ClinicalFaculty .
+      ?uri a foaf:Person .
+      }
+    }
+    GROUP BY ?uri

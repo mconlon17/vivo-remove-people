@@ -1,0 +1,2906 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns:rdf     = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs    = "http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd     = "http://www.w3.org/2001/XMLSchema#"
+    xmlns:owl     = "http://www.w3.org/2002/07/owl#"
+    xmlns:swrl    = "http://www.w3.org/2003/11/swrl#"
+    xmlns:swrlb   = "http://www.w3.org/2003/11/swrlb#"
+    xmlns:vitro1  = "http://vitro.mannlib.cornell.edu/ns/vitro/0.7#"
+    xmlns:bibo    = "http://purl.org/ontology/bibo/"
+    xmlns:c4o     = "http://purl.org/spar/c4o/"
+    xmlns:dcelem  = "http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms = "http://purl.org/dc/terms/"
+    xmlns:event   = "http://purl.org/NET/c4dm/event.owl#"
+    xmlns:foaf    = "http://xmlns.com/foaf/0.1/"
+    xmlns:fabio   = "http://purl.org/spar/fabio/"
+    xmlns:geo     = "http://aims.fao.org/aos/geopolitical.owl#"
+    xmlns:pvs     = "http://vivoweb.org/ontology/provenance-support#"
+    xmlns:ero     = "http://purl.obolibrary.org/obo/"
+    xmlns:scires  = "http://vivoweb.org/ontology/scientific-research#"
+    xmlns:skos    = "http://www.w3.org/2004/02/skos/core#"
+    xmlns:ufVivo  = "http://vivo.ufl.edu/ontology/vivo-ufl/"
+    xmlns:vitro2  = "http://vitro.mannlib.cornell.edu/ns/vitro/public#"
+    xmlns:core    = "http://vivoweb.org/ontology/core#"
+    xmlns:vivo    = "http://vivoweb.org/ontology/core#">
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>49587113</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://xmlns.com/foaf/0.1/firstName>Santhosh</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://xmlns.com/foaf/0.1/lastName>Neela</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://www.w3.org/2000/01/rdf-schema#label>Neela,Santhosh</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>sneela</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n186798143">
+        <http://vivoweb.org/ontology/core#faxNumber></http://vivoweb.org/ontology/core#faxNumber>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n190014">
+        <http://vivoweb.org/ontology/core#hasCo-PrincipalInvestigatorRole rdf:resource="http://vivo.ufl.edu/individual/n5234561"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n190014">
+        <http://vivoweb.org/ontology/core#hasCo-PrincipalInvestigatorRole rdf:resource="http://vivo.ufl.edu/individual/n370516"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n190014">
+        <http://vivoweb.org/ontology/core#hasCo-PrincipalInvestigatorRole rdf:resource="http://vivo.ufl.edu/individual/n562050"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n190014">
+        <http://vivoweb.org/ontology/core#hasCo-PrincipalInvestigatorRole rdf:resource="http://vivo.ufl.edu/individual/n6470101"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n190014">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n190014">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n190014">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n190014">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n190014">
+        <http://www.w3.org/2000/01/rdf-schema#label>Andrews, Keith</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5234561">
+        <http://vivoweb.org/ontology/core#co-PrincipalInvestigatorRoleOf rdf:resource="http://vivo.ufl.edu/individual/n190014"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n370516">
+        <http://vivoweb.org/ontology/core#co-PrincipalInvestigatorRoleOf rdf:resource="http://vivo.ufl.edu/individual/n190014"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n562050">
+        <http://vivoweb.org/ontology/core#co-PrincipalInvestigatorRoleOf rdf:resource="http://vivo.ufl.edu/individual/n190014"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6470101">
+        <http://vivoweb.org/ontology/core#co-PrincipalInvestigatorRoleOf rdf:resource="http://vivo.ufl.edu/individual/n190014"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>26411765</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n1278114"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://xmlns.com/foaf/0.1/firstName>Elizabeth</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://xmlns.com/foaf/0.1/lastName>Widmer</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://www.w3.org/2000/01/rdf-schema#label>Widmer,Elizabeth Ann</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://vivoweb.org/ontology/core#middleName>Ann</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1812311238">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>ewidmer</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1278114">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n1812311238"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://vivoweb.org/ontology/core#primaryPhoneNumber>(352) 273-3760</http://vivoweb.org/ontology/core#primaryPhoneNumber>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>23774140</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFCurrentEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFCurrentEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n318321"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://purl.org/ontology/bibo/prefixName>Ms</http://purl.org/ontology/bibo/prefixName>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n7500063248"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://xmlns.com/foaf/0.1/firstName>Esperanza</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://xmlns.com/foaf/0.1/lastName>Olivo</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://www.w3.org/2000/01/rdf-schema#label>Olivo, Esperanza</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>olivo</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1447072224">
+        <http://vivoweb.org/ontology/core#preferredTitle>Secretary</http://vivoweb.org/ontology/core#preferredTitle>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n318321">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n1447072224"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7500063248">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n1447072224"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>91144068</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://xmlns.com/foaf/0.1/firstName>Jason</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://xmlns.com/foaf/0.1/lastName>Fidorra</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://www.w3.org/2000/01/rdf-schema#label>Fidorra,Jason C</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://vivoweb.org/ontology/core#middleName>C</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1355421569">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>jfidorra</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>12176170</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>Y</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n2141234302"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://xmlns.com/foaf/0.1/firstName>William</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://xmlns.com/foaf/0.1/lastName>Thomas</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://www.w3.org/2000/01/rdf-schema#label>Thomas,William C</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n380833656">
+        <http://vivoweb.org/ontology/core#middleName>C</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2141234302">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n380833656"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>06514992</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://xmlns.com/foaf/0.1/firstName>Courtney</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://xmlns.com/foaf/0.1/lastName>Perets</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://www.w3.org/2000/01/rdf-schema#label>Perets,Courtney R</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://vivoweb.org/ontology/core#middleName>R</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1643790119">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>peretsc</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://vivoweb.org/ontology/core#primaryPhoneNumber>(262) 308-6683</http://vivoweb.org/ontology/core#primaryPhoneNumber>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://vivoweb.org/ontology/core#primaryEmail>smiller3@ufl.edu</http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>39663164</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFCurrentEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFCurrentEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n2030376853"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n2844925590"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n7388568910"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://xmlns.com/foaf/0.1/firstName>Samantha</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://xmlns.com/foaf/0.1/lastName>Miller</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://www.w3.org/2000/01/rdf-schema#label>Miller, Samantha N</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://vivoweb.org/ontology/core#middleName>N</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n633581552">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>smiller3</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2844925590">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n633581552"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7388568910">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n633581552"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2030376853">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n633581552"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>12111761</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://xmlns.com/foaf/0.1/firstName>Matthew</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://xmlns.com/foaf/0.1/lastName>Heredia</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://www.w3.org/2000/01/rdf-schema#label>Heredia,Matthew J</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1545966160">
+        <http://vivoweb.org/ontology/core#middleName>J</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://vivoweb.org/ontology/core#primaryPhoneNumber>(479) 799-7835</http://vivoweb.org/ontology/core#primaryPhoneNumber>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://vivoweb.org/ontology/core#primaryEmail>rbarocco@ufl.edu</http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>11179574</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFCurrentEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFCurrentEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n7023308"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n9284092933"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://xmlns.com/foaf/0.1/firstName>Rebecca</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://xmlns.com/foaf/0.1/lastName>Barocco</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://www.w3.org/2000/01/rdf-schema#label>Barocco, Rebecca</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://vivoweb.org/ontology/core#middleName>L</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1117525744">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>rbarocco</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9284092933">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n1117525744"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7023308">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n1117525744"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>49519639</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://xmlns.com/foaf/0.1/firstName>Marissa</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://xmlns.com/foaf/0.1/lastName>Bressi</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://www.w3.org/2000/01/rdf-schema#label>Bressi,Marissa J</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://vivoweb.org/ontology/core#middleName>J</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>marissaj09</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1612183863">
+        <http://vivoweb.org/ontology/core#faxNumber></http://vivoweb.org/ontology/core#faxNumber>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>82535790</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n667171962"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://xmlns.com/foaf/0.1/firstName>Stephen</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://xmlns.com/foaf/0.1/lastName>Mcknight</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://www.w3.org/2000/01/rdf-schema#label>Mcknight,Stephen A</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://vivoweb.org/ontology/core#middleName>A</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>smcknigh</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11510">
+        <http://vivoweb.org/ontology/core#faxNumber></http://vivoweb.org/ontology/core#faxNumber>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n667171962">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n11510"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>11032981</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>Y</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n88293"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://xmlns.com/foaf/0.1/firstName>Raymond</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://xmlns.com/foaf/0.1/lastName>Rummel</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://www.w3.org/2000/01/rdf-schema#label>Rummel,Raymond A</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n474959633">
+        <http://vivoweb.org/ontology/core#middleName>A</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n88293">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n474959633"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>19345669</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n366312"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://xmlns.com/foaf/0.1/firstName>Emilee</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://xmlns.com/foaf/0.1/lastName>Rochester</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://www.w3.org/2000/01/rdf-schema#label>Rochester,Emilee M</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://vivoweb.org/ontology/core#middleName>M</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n714969695">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>emrochest</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n366312">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n714969695"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>95135150</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://xmlns.com/foaf/0.1/firstName>Katherine</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://xmlns.com/foaf/0.1/lastName>Kline</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://www.w3.org/2000/01/rdf-schema#label>Kline,Katherine</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>kathiekline</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1947059296">
+        <http://vivoweb.org/ontology/core#faxNumber></http://vivoweb.org/ontology/core#faxNumber>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>16118964</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://xmlns.com/foaf/0.1/firstName>Rocheline</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://xmlns.com/foaf/0.1/lastName>Deronville</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://www.w3.org/2000/01/rdf-schema#label>Deronville,Rocheline</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1296498644">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>roxy123</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>49487270</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://purl.org/ontology/bibo/suffixName>Jr</http://purl.org/ontology/bibo/suffixName>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n1263371617"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://xmlns.com/foaf/0.1/firstName>William</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://xmlns.com/foaf/0.1/lastName>Tiederman</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://www.w3.org/2000/01/rdf-schema#label>Tiederman,William G,Jr</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://vivoweb.org/ontology/core#middleName>G</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23661">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>tieds71</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1263371617">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n23661"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>38648821</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>Y</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n466131"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://xmlns.com/foaf/0.1/firstName>Ruby</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://xmlns.com/foaf/0.1/lastName>Henderson</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://www.w3.org/2000/01/rdf-schema#label>Henderson,Ruby M</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1331459363">
+        <http://vivoweb.org/ontology/core#middleName>M</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466131">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n1331459363"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>14667709</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n8858807"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://xmlns.com/foaf/0.1/firstName>Suchitra</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://xmlns.com/foaf/0.1/lastName>Chandran</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://www.w3.org/2000/01/rdf-schema#label>Chandran,Suchitra</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n233203789">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>suchitrachandran</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8858807">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n233203789"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>95987628</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n164067"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://xmlns.com/foaf/0.1/firstName>Sathavaram</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://xmlns.com/foaf/0.1/lastName>Reddy</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://www.w3.org/2000/01/rdf-schema#label>Reddy,Sathavaram V</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://vivoweb.org/ontology/core#middleName>V</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>svreddy</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1585159487">
+        <http://vivoweb.org/ontology/core#faxNumber></http://vivoweb.org/ontology/core#faxNumber>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n164067">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n1585159487"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>05181541</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>Y</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://purl.org/ontology/bibo/suffixName>JR</http://purl.org/ontology/bibo/suffixName>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n32260"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://xmlns.com/foaf/0.1/firstName>Earle</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://xmlns.com/foaf/0.1/lastName>Muschlitz</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://www.w3.org/2000/01/rdf-schema#label>Muschlitz,Earle E,JR</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136749509">
+        <http://vivoweb.org/ontology/core#middleName>E</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n32260">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n136749509"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>99131121</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n7756019"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://xmlns.com/foaf/0.1/firstName>Darlene</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://xmlns.com/foaf/0.1/lastName>Lloyd</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://www.w3.org/2000/01/rdf-schema#label>Lloyd,Darlene L</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://vivoweb.org/ontology/core#middleName>L</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1536927598">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>lloyddl</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7756019">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n1536927598"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>19381351</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/dateHarvested>2012-08-07T21:05:14.275000</http://vivo.ufl.edu/ontology/vivo-ufl/dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://purl.org/ontology/bibo/prefixName>Dr</http://purl.org/ontology/bibo/prefixName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://xmlns.com/foaf/0.1/firstName>Hadi</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>Python People version 1.0</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://xmlns.com/foaf/0.1/lastName>Maazi</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://www.w3.org/2000/01/rdf-schema#label>MAAZI,HADI</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3285614325">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>hadi.maazi</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>96962396</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://xmlns.com/foaf/0.1/firstName>Lauren</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://xmlns.com/foaf/0.1/lastName>Wickman</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://www.w3.org/2000/01/rdf-schema#label>Wickman,Lauren E</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://vivoweb.org/ontology/core#middleName>E</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1625829257">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>wickmanlauren</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>85066780</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n558844585"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://xmlns.com/foaf/0.1/firstName>Constance</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://xmlns.com/foaf/0.1/lastName>Prats</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://www.w3.org/2000/01/rdf-schema#label>Prats,Constance Eileen</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://vivoweb.org/ontology/core#middleName>Eileen</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1682819202">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>hemicuda1</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n558844585">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n1682819202"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>72188381</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n2030376853"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://xmlns.com/foaf/0.1/firstName>Angela</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://xmlns.com/foaf/0.1/lastName>Hinz</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://www.w3.org/2000/01/rdf-schema#label>Hinz,Angela J</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://vivoweb.org/ontology/core#middleName>J</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1648717023">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>angelah87</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2030376853">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n1648717023"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>44154671</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n13427"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://xmlns.com/foaf/0.1/firstName>Gevalin</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://xmlns.com/foaf/0.1/lastName>Srisooksai</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://www.w3.org/2000/01/rdf-schema#label>Srisooksai,Gevalin</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41228008">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>gevalin</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n13427">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n41228008"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>50466500</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>Y</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://xmlns.com/foaf/0.1/firstName>Ferdinand</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://xmlns.com/foaf/0.1/lastName>Le Grand</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2124341739">
+        <http://www.w3.org/2000/01/rdf-schema#label>Le Grand,Ferdinand</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>33830581</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://xmlns.com/foaf/0.1/firstName>Elizabeth</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://xmlns.com/foaf/0.1/lastName>Parrish</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://www.w3.org/2000/01/rdf-schema#label>Parrish,Elizabeth Claire</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://vivoweb.org/ontology/core#middleName>Claire</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n603960259">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>elizabethp</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>75408257</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://xmlns.com/foaf/0.1/firstName>Frances</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://xmlns.com/foaf/0.1/lastName>Early</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://www.w3.org/2000/01/rdf-schema#label>Early,Frances C</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://vivoweb.org/ontology/core#middleName>C</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>torrid89</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1283571437">
+        <http://vivoweb.org/ontology/core#faxNumber></http://vivoweb.org/ontology/core#faxNumber>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://vivoweb.org/ontology/core#primaryPhoneNumber>(813) 405-6626</http://vivoweb.org/ontology/core#primaryPhoneNumber>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://vivoweb.org/ontology/core#primaryEmail>mschiaff@ufl.edu</http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>13578109</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFCurrentEntity"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/dateHarvested>2014-02-13T14:35:07.738249</http://vivo.ufl.edu/ontology/vivo-ufl/dateHarvested>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFCurrentEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n298333"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n4151327305"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://xmlns.com/foaf/0.1/firstName>Melody</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>Python People version 1.0</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://xmlns.com/foaf/0.1/lastName>Schiaffino</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://www.w3.org/2000/01/rdf-schema#label>Schiaffino, Melody K</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://vivoweb.org/ontology/core#middleName>K</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>mschiaff</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n344287337">
+        <http://vivoweb.org/ontology/core#preferredTitle>Doctoral Student</http://vivoweb.org/ontology/core#preferredTitle>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4151327305">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n344287337"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n298333">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n344287337"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>70260640</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>Y</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://xmlns.com/foaf/0.1/firstName>Wesley</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://xmlns.com/foaf/0.1/lastName>Miller</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://www.w3.org/2000/01/rdf-schema#label>Miller,Wesley L</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n484816692">
+        <http://vivoweb.org/ontology/core#middleName>L</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>37194781</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>Y</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n207803"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://xmlns.com/foaf/0.1/firstName>Rudolf</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://xmlns.com/foaf/0.1/lastName>Kalman</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://www.w3.org/2000/01/rdf-schema#label>Kalman,Rudolf E</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n348345063">
+        <http://vivoweb.org/ontology/core#middleName>E</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n207803">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n348345063"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>51684163</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n65276"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://xmlns.com/foaf/0.1/firstName>Sarah</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://xmlns.com/foaf/0.1/lastName>Woodard</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://www.w3.org/2000/01/rdf-schema#label>Woodard,Sarah Hollis</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://vivoweb.org/ontology/core#middleName>Hollis</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n604880237">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>swoodar2</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n65276">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n604880237"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>12503534</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n1278120"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n1180351253"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://xmlns.com/foaf/0.1/firstName>Hua</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://xmlns.com/foaf/0.1/lastName>Tang</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n369733112">
+        <http://www.w3.org/2000/01/rdf-schema#label>Tang,Hua</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1278120">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n369733112"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1180351253">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n369733112"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://vivoweb.org/ontology/core#primaryPhoneNumber>(513) 578-3558</http://vivoweb.org/ontology/core#primaryPhoneNumber>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://vivoweb.org/ontology/core#primaryEmail>khendy@flmnh.ufl.edu</http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>09171721</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFCurrentEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFCurrentEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n366314"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n1490004401"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n1325420628"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://xmlns.com/foaf/0.1/firstName>Katherine</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://xmlns.com/foaf/0.1/lastName>Hendy</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://www.w3.org/2000/01/rdf-schema#label>Hendy, Katherine A</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://vivoweb.org/ontology/core#middleName>A</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1951437691">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>khendy</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n366314">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n1951437691"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1490004401">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n1951437691"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1325420628">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n1951437691"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>27727981</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Deceased"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>Y</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Deceased"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n56522"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://xmlns.com/foaf/0.1/firstName>Raymond</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://xmlns.com/foaf/0.1/lastName>Crist</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://www.w3.org/2000/01/rdf-schema#label>Crist,Raymond E</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1176834872">
+        <http://vivoweb.org/ontology/core#middleName>E</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n56522">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n1176834872"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>64006381</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n8858822"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://xmlns.com/foaf/0.1/firstName>Elizabeth</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://xmlns.com/foaf/0.1/lastName>Haswell</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://www.w3.org/2000/01/rdf-schema#label>Haswell,Elizabeth Susan</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n804397929">
+        <http://vivoweb.org/ontology/core#middleName>Susan</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8858822">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n804397929"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>62785440</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n46717237"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://xmlns.com/foaf/0.1/firstName>Leland</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://xmlns.com/foaf/0.1/lastName>Shaw</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://www.w3.org/2000/01/rdf-schema#label>Shaw,Leland G</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://vivoweb.org/ontology/core#middleName>G</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25429">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>leland</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n46717237">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n25429"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n35039">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>21884047</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n35039">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n35039">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n35039">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n35039">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n35039">
+        <http://xmlns.com/foaf/0.1/firstName>Luther</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n35039">
+        <http://xmlns.com/foaf/0.1/lastName>St. James IV</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n35039">
+        <http://www.w3.org/2000/01/rdf-schema#label>St. James IV, Luther</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>00923442</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://xmlns.com/foaf/0.1/firstName>Sherry</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://xmlns.com/foaf/0.1/lastName>Akanni</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://www.w3.org/2000/01/rdf-schema#label>Akanni,Sherry T</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://vivoweb.org/ontology/core#middleName>T</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>sakanni</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1288501051">
+        <http://vivoweb.org/ontology/core#faxNumber></http://vivoweb.org/ontology/core#faxNumber>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>46967823</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n332487"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://xmlns.com/foaf/0.1/firstName>Matthew</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://xmlns.com/foaf/0.1/lastName>Barclay</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://www.w3.org/2000/01/rdf-schema#label>Barclay,Matthew A</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://vivoweb.org/ontology/core#middleName>A</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2026004647">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>mbarclay</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n332487">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n2026004647"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>15269810</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n1016094312"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://xmlns.com/foaf/0.1/firstName>Chantal</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://xmlns.com/foaf/0.1/lastName>Schwoerer</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://www.w3.org/2000/01/rdf-schema#label>Schwoerer,Chantal Lyche</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n790253432">
+        <http://vivoweb.org/ontology/core#middleName>Lyche</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1016094312">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n790253432"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://vivoweb.org/ontology/core#primaryEmail></http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>76739828</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n252723"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n1732017943"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://xmlns.com/foaf/0.1/firstName>Ihab</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://xmlns.com/foaf/0.1/lastName>Hajjar</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1256995290">
+        <http://www.w3.org/2000/01/rdf-schema#label>Hajjar,Ihab</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1732017943">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n1256995290"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n252723">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n1256995290"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>75095981</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Consultant"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://xmlns.com/foaf/0.1/firstName>Daniel</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://xmlns.com/foaf/0.1/lastName>Kelly</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://www.w3.org/2000/01/rdf-schema#label>Kelly,Daniel P</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://vivoweb.org/ontology/core#middleName>P</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n140536408">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>dkelly67</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://vivoweb.org/ontology/core#primaryPhoneNumber>(724) 372-0870</http://vivoweb.org/ontology/core#primaryPhoneNumber>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://vivoweb.org/ontology/core#primaryEmail>awelton@ufl.edu</http://vivoweb.org/ontology/core#primaryEmail>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>26721221</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFCurrentEntity"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/dateHarvested>2014-02-13T14:51:20.014676</http://vivo.ufl.edu/ontology/vivo-ufl/dateHarvested>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFCurrentEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDept rdf:resource="http://vivo.ufl.edu/individual/n87801"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n7728901967"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://xmlns.com/foaf/0.1/firstName>Andrew</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>Python People version 1.0</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://xmlns.com/foaf/0.1/lastName>Welton</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://www.w3.org/2000/01/rdf-schema#label>Welton, Andrew J</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://vivoweb.org/ontology/core#middleName>J</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2241459425">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>awelton</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7728901967">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n2241459425"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87801">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/homeDeptFor rdf:resource="http://vivo.ufl.edu/individual/n2241459425"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/ufid>09891180</http://vivo.ufl.edu/ontology/vivo-ufl/ufid>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type rdf:resource="http://vivoweb.org/ontology/core#EmeritusFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>N</http://vivo.ufl.edu/ontology/vivo-ufl/privacyFlag>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/UFEntity"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#EmeritusProfessor"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://purl.org/ontology/bibo/suffixName>JR</http://purl.org/ontology/bibo/suffixName>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://vivoweb.org/ontology/core#personInPosition rdf:resource="http://vivo.ufl.edu/individual/n939541284"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://xmlns.com/foaf/0.1/firstName>Halbert</http://xmlns.com/foaf/0.1/firstName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-BizTalk-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>PeopleSoft-Harvester</http://vivo.ufl.edu/ontology/vivo-ufl/harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://xmlns.com/foaf/0.1/lastName>Smith</http://xmlns.com/foaf/0.1/lastName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://www.w3.org/2000/01/rdf-schema#label>Smith,Halbert C,JR</http://www.w3.org/2000/01/rdf-schema#label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://vivoweb.org/ontology/core#middleName>C</http://vivoweb.org/ontology/core#middleName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61048">
+        <http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>halsmith</http://vivo.ufl.edu/ontology/vivo-ufl/gatorlink>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n939541284">
+        <http://vivoweb.org/ontology/core#positionForPerson rdf:resource="http://vivo.ufl.edu/individual/n61048"/>
+    </rdf:Description>
+
+</rdf:RDF>
